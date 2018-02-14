@@ -1,2 +1,2 @@
-# Resume Created By Latex
+# My resume Created By Latex
 ![GitHub Logo](/LiXiang.jpg)

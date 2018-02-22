@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.3)  28 SEP 2017 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.3)  19 FEB 2018 20:16
 entering extended mode
 **./CoverLetter.tex
 (CoverLetter.tex
@@ -966,32 +966,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 55.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
  (CoverLetter.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
 Package rerunfilecheck Info: File `CoverLetter.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18893 strings out of 493335
- 313440 string characters out of 3143144
- 395102 words of memory out of 3000000
+ 18889 strings out of 493335
+ 313392 string characters out of 3143144
+ 394102 words of memory out of 3000000
  22235 multiletter control sequences out of 15000+200000
- 41559 words of font info for 51 fonts, out of 3000000 for 9000
+ 41357 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,45p,10365b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/OtherApps/Latex/fonts/enc/dvips/lm/lm-ec.enc}<D:/OtherApps/Latex/fonts/ty
 pe1/public/lm/lmss10.pfb><D:/OtherApps/Latex/fonts/type1/public/lm/lmssbx10.pfb
 ><D:/OtherApps/Latex/fonts/type1/public/lm/lmsso10.pfb><D:/OtherApps/Latex/font
 s/type1/public/marvosym/marvosym.pfb>
-Output written on CoverLetter.pdf (1 page, 95229 bytes).
+Output written on CoverLetter.pdf (1 page, 93266 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  13313 words of extra memory for PDF output out of 14400 (max. 10000000)
 

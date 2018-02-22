@@ -1,19 +1,14 @@
-Dear Sir or Madam,
+Dear hiring manager,
 
-Thank you for your precious time for reviewing my application!
+Thank you for your precious time reviewing my application!
 
-I am a graduate student at Lehigh University major in Financial Mathematics and I am looking for a full-time entry-level job starting in May 2018.
+My name is Xiang Li. I am a graduate student at Lehigh University studying Financial Mathematics. I also hold a bachelor's degree in software engineering from Shanghai Jiao Tong University. I am looking for a full-time position related to quantitative analyst/developer, data scientist or risk management.
 
-My undergraduate university is Shanghai Jiao Tong University which is one of the most prestigious colleges in China, and I was major in Software Engineering and Finance. I think a compound background and skill set of programming, mathematics, and finance could make me outstanding in fields like quantitative analysis, risk management, model development and validation.
+I have industry experience in investment banks, trading firms and Fintech startups in the U.S and China. I have also worked on some academic research and projects in finance and risk field. You are highly welcomed to visit my GitHub profile (https://github.com/LiXiang618) to see some projects and academic research I have done before.
 
-I have working experiences in relevant companies and positions: This summer, I worked in QuantConnet, a U.S. based Fin-Tech company, and I was in charge of quantitative analysis for trading strategies and risk management. Previously, I worked in Guotai Junan Securities, an investment bank in China, responsible for statistics arbitrage model development and validation. Before that, I worked as a summer intern in the Information Corporate Technology department of Morgan Stanley.
+Thank you for your time and I look forward to learning more about this opportunity! Feel free to call me at (669) 271-5090 whenever you are convenient. 
 
-To learn more about myself, you are encouraged to visit my GitHub profile where you can see the projects I have done before as well as some academic research on financial markets.
-
-https://github.com/LiXiang618
-
-I am confident that I can offer you enough essential skills you are seeking. Feel free to call me at (669) 271-5090 to arrange an interview. Thank you for your time and I look forward to learning more about this opportunity!
+Attached is my resume.
 
 Yours faithfully,
-
 Xiang Li
